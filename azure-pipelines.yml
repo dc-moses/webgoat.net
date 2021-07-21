@@ -36,7 +36,7 @@ steps:
   inputs:
     FortifyProjects: 'WebGoat .net'
     ReleaseId: 257478
-    FodConnection: 'Fortify (DylanM_Demo)'
+    FodConnection: 'FoD'
     EntitlementPreference: '1'
     InProgressScanActionType: '1'
     RemediationScanPreference: '2'
