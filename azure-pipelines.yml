@@ -32,7 +32,7 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: FortifyOnDemandStatic@6
+- task: FortifyOnDemandStatic@7
   inputs:
     FortifyProjects: 'WebGoat .net'
     ReleaseId: 257478
