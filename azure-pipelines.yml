@@ -40,4 +40,4 @@ steps:
     EntitlementPreference: '1'
     InProgressScanActionType: '1'
     RemediationScanPreference: '2'
-    PolicyFailAction: '0'
+    PolicyFailAction: '1'
